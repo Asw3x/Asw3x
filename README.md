@@ -5,17 +5,20 @@
 </p>
 
 ### 🛠 Навыки и стек технологий
-- **Web Security:** Глубокое понимание OWASP Top 10, Business Logic Flaws, IDOR, XSS, SSRF, Path Traversal, CORS Misconfiguration.
-- **Инструменты:** Burp Suite, Postman, Semgrep, SQLmap.
-- **Разработка и автоматизация:** Python, C#, Kotlin.
-- **ОС и системы:** Linux, Windows, Git.
+- **Web Security** Burp Suite, Postman, SQLmap, FFuF, Nuclei, Dirb/Gobuster.
+- **Reverse Engineering:** IDA Pro, Ghidra, x64dbg, jadx, apktool, Radare2.
+- **Разработка и автоматизация:** Python, C#, C++, Kotlin.
+- **Анализ кода:** Semgrep, SonarQube.
+- **Сетевой анализ:** Wireshark, Nmap.
+- **Администрирование:** Linux, Docker, Windows, Git.
 
 ### 🐛 Опыт в Bug Bounty
 Имею подтвержденный опыт обнаружения критических уязвимостей на платформах [Standoff365](https://standoff365.com/profile/Asw3x/) и Patchwork, а также в рамках независимых исследований:
 - **hh.ru:** Обнаружил несколько IDOR.
 - **Yandex:** Обнаружение IDOR, HTML Injections, Content Spoofing, Client IP Leakage и Semi-Blind SSRF.
 - **VK:** Выявление CORS Misconfiguration и Path Traversal.
-- **Wildberries & Kleek:** Обнаружение критических ошибок бизнес-логики и утечек чувствительных данных.
+- **Wildberries:** CORS Misconfiguration.
+- **Kleek:** Обнаружение уязвимостей в бизнес-логике платёжной системы.
 
 ### 📂 Избранные репозитории и проекты
 - 📱 [**DomofonAPPerfect**](https://github.com/Asw3x/DomofonAPPerfect) — альтернативный клиент для домофонов ПИК
