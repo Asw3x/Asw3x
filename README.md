@@ -13,7 +13,7 @@
 ### 🐛 Опыт в Bug Bounty
 Имею подтвержденный опыт обнаружения критических уязвимостей на платформах [Standoff365](https://standoff365.com/profile/Asw3x/) и Patchwork, а также в рамках независимых исследований:
 - **hh.ru:** Обнаружил несколько IDOR.
-- **Yandex:** Обнаружение HTML Injections, Content Spoofing, Client IP Leakage и Semi-Blind SSRF.
+- **Yandex:** Обнаружение IDOR, HTML Injections, Content Spoofing, Client IP Leakage и Semi-Blind SSRF.
 - **VK:** Выявление CORS Misconfiguration и Path Traversal.
 - **Wildberries & Kleek:** Обнаружение критических ошибок бизнес-логики и утечек чувствительных данных.
 
