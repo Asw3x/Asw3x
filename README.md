@@ -1,7 +1,7 @@
 <h1 align="center">Asw3x</h1>
 
 <p align="center">
-  <b>Junior Application Security Engineer | DevSecOps</b>
+  <b>Jun+ AppSec | Pentest | DevSecOps</b>
 </p>
 
 ### 🛠 Навыки и стек технологий
@@ -14,15 +14,15 @@
 
 ### 🐛 Опыт в Bug Bounty
 Имею подтвержденный опыт обнаружения критических уязвимостей на платформах [Standoff365](https://standoff365.com/profile/Asw3x/) и Patchwork, а также в рамках независимых исследований:
-- **hh.ru:** Обнаружил несколько IDOR.
-- **Yandex:** Обнаружение IDOR, HTML Injections, Content Spoofing, Client IP Leakage и Semi-Blind SSRF.
-- **VK:** Выявление CORS Misconfiguration и Path Traversal.
+- **hh.ru:** IDOR.
+- **Yandex:** IDOR, HTML Injections, Content Spoofing, Client IP Leakage, Semi-Blind SSRF.
+- **VK:** CORS Misconfiguration и Path Traversal.
 - **Wildberries:** CORS Misconfiguration.
-- **Kleek:** Обнаружение уязвимостей в бизнес-логике платёжной системы.
+- **Kleek:** Business logic.
 
 ### 📂 Избранные репозитории и проекты
-- 📱 [**DomofonAPPerfect**](https://github.com/Asw3x/DomofonAPPerfect) — альтернативный клиент для домофонов ПИК
-- 🛒 **[Marellshop.ru](https://marellshop.ru) & Telegram-бот** — коммерческая разработка интернет-магазина и сопровождающего Telegram-бота под ключ. Построение архитектуры, работа с БД, успешный вывод проекта в продакшен и активная поддержка.
+- 📱 [**DomofonAPPerfect**](https://github.com/Asw3x/DomofonAPPerfect) — созданный путём ревёрс-инжиниринга  альтернативный клиент для домофонов ПИК-Domonap
+- 🛒 **[Marellshop.ru](https://marellshop.ru) & [Telegram-бот](https://t.me/marellshop_bot)** — коммерческая разработка интернет-магазина и сопровождающего Telegram-бота под ключ. Построение архитектуры, работа с БД, успешный вывод проекта в продакшен и активная поддержка.
 - 📖 [**appsec-notes**](https://github.com/Asw3x/appsec-notes) — личная база знаний: шпаргалки по веб-уязвимостям и успешные репорты с Bug Bounty платформ.
 - 👨‍💻 [**study_projects**](https://github.com/Asw3x/study_projects) — коллекция пет-проектов (включает локальный статический анализатор кода на C# и Telegram-ботов).
 - 🔍 **SAST-анализатор для JavaScript** *(В разработке)* — собственный инструмент на Python для статического анализа JS-кода, извлечения эндпоинтов и автоматизации этапа разведки (Recon).
@@ -30,4 +30,3 @@
 ### 📫 Контакты для связи
 - **Telegram:** [@xitsys](https://t.me/xitsys)
 - **Email:** asw3x.is@gmail.com
-- **Standoff365:** [Asw3x](https://standoff365.com/profile/Asw3x/)
