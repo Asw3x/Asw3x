@@ -17,7 +17,7 @@
 | Проект | Что это и зачем смотреть |
 |---|---|
 | **[writeups](https://github.com/Asw3x/writeups)** | Разборы CTF, лабораторий и собственных проектов: разведка - гипотезы - эксплуатация - как это чинить |
-| **[external-pentest-playbook](https://github.com/Asw3x/external-pentest-playbook)** | Методология внешнего пентеста, написанная по реальному проекту. |
+| **[external-pentest-playbook](https://github.com/Asw3x/external-pentest-playbook)** | Методология внешнего пентеста, написанная по следам реального проекта. |
 | **[zimbra-ir-triage](https://github.com/Asw3x/zimbra-ir-triage)** | Автономный IR/форензик-триаж почтовых серверов Zimbra: поиск скомпрометированных ящиков по SASL-логам, Sieve-бэкдоров и always_bcc, web-shell'ов в Jetty, процессов из удалённых бинарей, сигнатуры известных RCE-CVE. Read-only, self-throttling |
 | **[sast-scanner](https://github.com/Asw3x/sast-scanner)** | Статический анализатор: ядро отделено от UI, правила подгружаются из XML без перекомпиляции, severity и номера строк в отчёте. Вырос из университетского проекта |
 | **[s365-triage](https://github.com/Asw3x/s365-triage)** | Разбирает скоуп программ bug bounty из текстовых описаний (отделяя «вне области» от «в области») и ранжирует программы по доле принятых отчётов, ширине скоупа и скорости триажа |
