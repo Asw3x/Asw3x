@@ -37,8 +37,7 @@
 **Standoff365** — [профиль](https://standoff365.com/profile/Asw3x/), 11 отчётов
 
 - `hh.ru` - IDOR, утечка ключей API
-- `vkvideo.ru` — в регулярке валидации пути нет якоря `$`, поэтому `../` выводит за пределы
-  разрешённой директории к любым эндпоинтам домена
+- `vkvideo.ru` — Path Traversal
 - `okko.tv` — CRLF
 - `wildberries.ru`, `vk.com` — CORS с `Access-Control-Allow-Credentials: true`
   и отражением произвольного `Origin`
