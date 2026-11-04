@@ -30,20 +30,33 @@
 
 **Яндекс** — [Hall of Fame, 2026 Q1, 66 место](https://yandex.ru/bugbounty/i/hall-of-fame)
 
-- Semi-Blind SSRF (`BOUNTYREPORT-12149`)
-- Утечка IP клиента
-- Content Spoofing
+| Severity | CVSS | Отчёт |
+|---|---|---|
+| High | 7.5 | `BOUNTYREPORT-12149` |
+| Medium | 4.3 | — |
+| Low | 3.1 | — |
 
 **Standoff365** — [профиль](https://standoff365.com/profile/Asw3x/), 11 отчётов
 
-- `hh.ru` - IDOR, утечка ключей API
-- `vkvideo.ru` — Path Traversal
-- `okko.tv` — CRLF
-- `wildberries.ru`, `vk.com` — CORS с `Access-Control-Allow-Credentials: true`
-  и отражением произвольного `Origin`
+| Severity | CVSS | Цель |
+|---|---|---|
+| High | 8.1 | `hh.ru` |
+| High | 7.5 | `vkvideo.ru` |
+| High | 7.1 | `wildberries.ru` |
+| High | 7.1 | `vk.com` |
+| Medium | 5.3 | `okko.tv` |
 
-**Вне программ** — Kleek (финтех): отрицательные чаевые уменьшали сумму платежа. Отправил в
+**Вне программ** — Kleek (финтех), логическая ошибка в расчёте суммы платежа. Отправил в
 поддержку, передали в разработку, исправлено.
+
+### CTF
+
+Играю в команде **[PrishliPohavaTeam](https://ctftime.org/team/450174)**.
+
+- SolarCTF 2026 — 6 место
+- Кубок CTF России 2026 — 11 место
+
+Разборы задач — в [writeups](https://github.com/Asw3x/writeups#ctf).
 
 ### Инструменты и стек
 
