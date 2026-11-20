@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Пентест полного цикла · AppSec · Bug Bounty</b><br>
-  <sub>Москва · РТУ МИРЭА, ИКБ · <a href="https://t.me/xitsys">Telegram</a> · asw3x.is@gmail.com</sub>
+  <sub>РТУ МИРЭА, ИКБ · <a href="https://t.me/xitsys">Telegram</a> · asw3x.is@gmail.com</sub>
 </p>
 
 ---
