@@ -28,7 +28,7 @@
 
 ### Bug Bounty
 
-**Яндекс** — [Hall of Fame, 2026 Q1, 66 место](https://yandex.ru/bugbounty/i/hall-of-fame)
+**Яндекс** — [Hall of Fame за 2026, 140 место](https://yandex.ru/bugbounty/i/hall-of-fame)
 
 | Severity | CVSS | Отчёт |
 |---|---|---|
