@@ -30,12 +30,12 @@
 
 **Яндекс** — [Hall of Fame за 2026, 140 место](https://yandex.ru/bugbounty/i/hall-of-fame)
 
-| Severity | CVSS | Отчёт |
-|---|---|---|
-| Medium | 6.7 | — |
-| Medium | 4.3 | — |
-| Medium | 4.3 | — |
-| Low | 3.1 | — |
+| Severity | CVSS |
+|---|---|
+| Medium | 6.7 |
+| Medium | 4.3 |
+| Medium | 4.3 |
+| Low | 3.1 |
 
 **Standoff365** — [профиль](https://standoff365.com/profile/Asw3x/), 11 отчётов
 
