@@ -32,7 +32,6 @@
 
 | Severity | CVSS | Отчёт |
 |---|---|---|
-| High | 7.5 | `BOUNTYREPORT-12149` |
 | Medium | 6.7 | — |
 | Medium | 4.3 | — |
 | Medium | 4.3 | — |
